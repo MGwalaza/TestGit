@@ -17,6 +17,10 @@ namespace TestGit
             //changes 3
 
             //changes 4
+
+            //feature 1.1 changes 1
+
+            //feature 1.1 changes 2
         }
     }
 }
